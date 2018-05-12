@@ -1,0 +1,31 @@
+_repo: Northern-Nut-Growers-Association-Report-of-the-Proceedings-at-the-Fourth-Annual-MeetingWashin__24552
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Northern Nut Growers Association
+    alias: Association, Northern Nut Growers
+    gutenberg_agent_id: '9596'
+    url: http://www.gutenberg.org/2009/agents/9596
+description: ''
+gutenberg_bookshelf: Northern Nut Growers Association
+gutenberg_issued: '2008-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nut trees -- Periodicals'
+- !lcc 'SB'
+- !lcsh 'Northern Nut Growers Association -- Periodicals'
+- !lcsh 'Nuts -- Periodicals'
+title: 'Northern Nut Growers Association, Report of the Proceedings at the Fourth
+  Annual Meeting
+
+  Washington D.C.  November 18 and 19, 1913'
+url: http://www.gutenberg.org/ebooks/24552
