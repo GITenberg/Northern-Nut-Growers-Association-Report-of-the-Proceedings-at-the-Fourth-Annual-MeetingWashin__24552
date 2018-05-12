@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9596'
     url: http://www.gutenberg.org/2009/agents/9596
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24552#Northern-Nut-Growers-Association-Report-of-the-Proceedings-at-the-Fourth-Annual-MeetingWashin_
 gutenberg_bookshelf: Northern Nut Growers Association
 gutenberg_issued: '2008-02-08'
 gutenberg_type: Text
